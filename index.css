@@ -12,7 +12,12 @@
         font-size: 4em;
         padding: 10px;
         text-align: center;
+        background-color: rgba(0, 94, 255, 0.497);
         color: aqua;
+    }
+ var{
+        font-family:Brush Script MT, Brush Script Std, cursive;
+        font-size: 4em;
     }
     
     .menu ul li{

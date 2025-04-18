@@ -16,9 +16,9 @@
         border-radius: 40px 10px 41px;
         color: aqua;
     }
- var{
-        font-family:Brush Script MT, Brush Script Std, cursive;
-        font-size: 4em;
+    .header h1 a{
+        text-decoration: none;
+        color: rgb(255, 255, 255);
     }
     
     .menu ul li{
@@ -29,8 +29,7 @@
         color: white;
         font-family: sans-serif;
         text-align: center;
-        padding-left: 20px;
-        margin-left: 10px;
+
         font-size: 28px;
         list-style: none;
         display: inline-block;
